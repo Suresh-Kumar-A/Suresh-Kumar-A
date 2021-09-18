@@ -1,29 +1,21 @@
 # Under Mantainance
 
-
-- 👋 Hi, I’m @Suresh-Kumar-A
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ## Hi I'm Suresh Kumar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Suresh Kumar a Web Developer. I Spend most of time doing sample projects or doing something in hackerrank.
 
-:mailbox: Reach me out! at creativegeeksuresh@gmail.com
+:mailbox: Reach me out at following social media handles
 
-[![](https://img.shields.io/badge/-suresh__kumar__a-black?style=flat&logo=HackerRank&logoColor=00EA64)](https://www.hackerrank.com/suresh_kumar_a)
 [![Linkedin Badge](https://img.shields.io/badge/-Suresh%20Kumar%20A-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/a-suresh-kumar) [![Mail Badge](https://img.shields.io/badge/-creativegeeksuresh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:creativegeeksuresh@gmail.com)
 
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+<!-- [![](https://img.shields.io/badge/HackerRank-suresh__kumar__a-1abc9c?style=for-the-badge&labelColor=black&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/suresh_kumar_a) -->
 
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at @Toptal
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
+- :mailbox: 
 - 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and go to the GYM very often.
 
