@@ -1,3 +1,6 @@
+# Under Mantainance
+
+
 - 👋 Hi, I’m @Suresh-Kumar-A
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -9,9 +12,11 @@
 I'm Suresh Kumar a Web Developer. I Spend most of time doing sample projects or doing something in hackerrank.
 
 :mailbox: Reach me out! at creativegeeksuresh@gmail.com
-[![](https://img.shields.io/badge/-@suresh_kumar_a-orange?style=for-the-badge&logo=HackerRank&labelColor=black)](https://www.hackerrank.com/suresh_kumar_a)
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+[![](https://img.shields.io/badge/-suresh__kumar__a-black?style=flat&logo=HackerRank&logoColor=00EA64)](https://www.hackerrank.com/suresh_kumar_a)
+[![Linkedin Badge](https://img.shields.io/badge/-Suresh%20Kumar%20A-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](www.linkedin.com/in/a-suresh-kumar) [![Mail Badge](https://img.shields.io/badge/-creativegeeksuresh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:creativegeeksuresh@gmail.com)
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 
 <!-- TODO: Add last video link -->
 
