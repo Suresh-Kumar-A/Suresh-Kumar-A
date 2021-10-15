@@ -1,6 +1,6 @@
 ## Hi I'm Suresh Kumar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Suresh Kumar a Web Developer. I Spend most of time doing sample projects or doing something in hackerrank.
+Web & Backend Developer. I Spend most of time doing sample projects or doing something in hackerrank.
 
 :mailbox: Reach me out at following social media handles
 
